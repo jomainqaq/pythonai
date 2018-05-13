@@ -4,5 +4,6 @@ b = tf.constant([2.0,3.0],name="b")
 result = a + b
 sess = tf.Session()
 print(sess.run(result))
+print('yes')
 
 

@@ -6,4 +6,5 @@ sess = tf.Session()
 print(sess.run(result))
 print('yes')
 
+#gagaggagag
 

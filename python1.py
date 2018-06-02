@@ -7,4 +7,4 @@ print(sess.run(result))
 print('yes')
 
 #gagaggagag
-
+#bbbbbbbbbbbbbb

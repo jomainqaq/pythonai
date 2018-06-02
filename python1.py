@@ -5,6 +5,7 @@ result = a + b
 sess = tf.Session()
 print(sess.run(result))
 print('yes')
+print('fuck')
 
 #gagaggagag
 #bbbbbbbbbbbbbb
